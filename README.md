@@ -1,4 +1,4 @@
-# sebby
+# Sebby
 
 ## Actions
 - [ ] Add the projects Actency
