@@ -1,4 +1,4 @@
-# Sebby
+# Sebby WIP
 
 ## Actions
 - [ ] Ajouter les projets faits dans les différentes sociétés
