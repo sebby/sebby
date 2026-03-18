@@ -39,6 +39,19 @@ Je suis **Lead Developeur Drupal**
 
 ---
 
+
+## 📊 Statistiques GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sebby&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebby&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sebby&theme=radical&hide_border=true)
+
+</div>
+
 ## 📫 Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastiencunin/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BuZngynpATn2%2FlTA5%2B8acqA%3D%3Dl)
