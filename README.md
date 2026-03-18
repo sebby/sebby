@@ -2,7 +2,7 @@
 
 ## 🚀 À propos de moi
 
-Je suis **Lead Developeur Drupal** passionné(e) par [vos centres d'intérêt].
+Je suis **Lead Developeur Drupal**
 
 - 🔭 Je travaille actuellement sur **moi**
 - 🌱 J'apprends en ce moment **IA :-P**
