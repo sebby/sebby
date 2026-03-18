@@ -6,7 +6,7 @@ Je suis **Lead Developeur Drupal**
 
 - 🔭 Je travaille actuellement sur **moi**
 - 🌱 J'apprends en ce moment **IA :-P**
-- 👯 ~~Je cherche à collaborer~~ Je vais un break de plusieurs mois
+- 👯 ~~Je cherche à collaborer~~ Je fais un break de plusieurs mois
 - 💬 Demandez-moi à propos de **Drupal, Neovim, OpenCode, Design patterns, Solid Principles**
 - 📫 Comment me contacter : ~~**[votre.email@example.com]**~~
 
