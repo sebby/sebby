@@ -29,7 +29,7 @@ Je suis **Lead Developeur Drupal** passionné(e) par [vos centres d'intérêt].
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 ### Outils & Plateformes
-[![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white)](https://www.elastic.co)
+[![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?logo=elasticstack&logoColor=white)](https://www.elastic.co/elastic-stack/)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 [![DDEV](https://img.shields.io/badge/DDEV-02A89E?logo=docker&logoColor=white)](https://ddev.com)
